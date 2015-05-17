@@ -1,0 +1,28 @@
+@media screen and (max-width: 998px)  {
+    .navbar-form {
+        padding: 0px 0px;
+    }
+    .left-section-line, .right-section-line {
+        display: none;
+    }
+    .content-text {
+        padding: 0;
+    }
+    .pricing-col {
+        border-left: solid 2px #c4cdcd;
+    }
+}
+@media screen and (max-width: 767px) {
+    .inner-content-overlay {
+        height: 197px;
+    }
+}
+@media screen and (max-width: 480px) {
+    .navbar-form {
+        padding: 10px 15px;
+    }
+    #main-gallery {
+        display: none;
+    }
+
+}
