@@ -24,5 +24,7 @@
     #main-gallery {
         display: none;
     }
-
+    .inner-container:hover .inner-content-center h1 {
+        font-size: 14px;
+    }
 }
